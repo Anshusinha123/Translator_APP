@@ -1,6 +1,6 @@
 # Translator_APP
 
-In this article, we are going to create a real-time voice translator in Python.
+In this project, we are going to create a real-time voice translator in Python.
 
 #Module needed
 playsound: This module is used to play sound in Python
